@@ -1,0 +1,54 @@
+	body {
+  background: #ccc url(../images/background.png) repeat;
+  color: #000;
+	}
+	
+	Header {
+		background: #c3dfef;
+	}
+	.active {
+    background-color: #20af;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: Left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: left;
+    padding: 33px 35px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+h1 {
+	text-align: center;
+	text-decoration: underline;
+}
+h2 { 
+	text-align: center;
+	font-size: 21px;
+	margin: 0;
+	font-weight: normal;
+}
+h3 {
+	text-align: center;
+	color: blue;
+	font-family: verdana;
+	font-size: 12px;
+}
+h4	{
+	font-size: 21px;
+	font-weight: normal;
+}
