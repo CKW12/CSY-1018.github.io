@@ -6,9 +6,6 @@ body {
 	Header {
 		background: #c3dfef;
 	}
-	.active {
-    background-color: #20af;
-}
 ul {
     list-style-type: none;
     margin: 0;
@@ -39,10 +36,18 @@ h1 {
 }
 h2 {
 	font-size: 18px;
+	text-align: center;
+	font-weight: normal;
 }
 h3 {
 	text-align: center;
 	color: blue;
 	font-family: verdana;
 	font-size: 12px;
+}
+h4 {
+	font-size: 24px;
+	text-align: center;
+	text-decoration: underline;
+	margin: 0;
 }
